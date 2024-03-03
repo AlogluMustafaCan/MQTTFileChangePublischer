@@ -1,0 +1,5 @@
+repos:
+- repo: https://github.com/AlogluMustafaCan/cutom-git-hook.git
+  rev: 64151303543b5e47ccdf67aafbd543214dd8dc2d
+  hooks:
+    - id: no_commit_to_master
